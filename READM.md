@@ -54,4 +54,4 @@
 	  }
 	}
   运行截图:![image](https://github.com/lala-haha74/innovation/blob/master/%E6%88%AA%E5%9B%BE.png)
-  实验心得：这次实验我熟悉了字符串数组的添加，以及
+  实验心得：这次实验我熟悉了字符串数组的添加，以及,
